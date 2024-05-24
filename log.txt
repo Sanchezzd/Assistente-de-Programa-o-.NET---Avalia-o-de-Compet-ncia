@@ -1,0 +1,14 @@
+Iniciando interpretação da mensagem...
+4/26/2024 2:55:22 PM: item.MensagemHash: ABC123456789
+4/26/2024 2:55:22 PM: item.RealmInicial: banco_de_dados_1
+4/26/2024 2:55:23 PM: item.MensagemHash: DEF987654321
+4/26/2024 2:55:23 PM: item.RealmInicial: banco_de_dados_1
+System.ArgumentException: Parameter 'P_ID_TIPO_RESIDENCIA' not found in the collection.
+Trabalho com pedidos foi finalizado.
+
+Iniciando interpretação da mensagem...
+4/26/2024 3:00:00 PM: item.MensagemHash: GHI654321987
+4/26/2024 3:00:00 PM: item.RealmInicial: banco_de_dados_2
+4/26/2024 3:00:01 PM: item.MensagemHash: JKL123456789
+4/26/2024 3:00:01 PM: item.RealmInicial: banco_de_dados_2
+Trabalho com pedidos foi finalizado.
